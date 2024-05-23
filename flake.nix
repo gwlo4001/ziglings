@@ -4,7 +4,6 @@
       type = "github";
       owner = "nixos";
       repo = "nixpkgs";
-      ref = "e1eeb53e64159fbb2610ba7810ed511e4d5c10ca";
     };
     flake-compat = {
       url = "github:edolstra/flake-compat";
